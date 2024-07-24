@@ -4,6 +4,6 @@ int main()
 {
     int a=100;
     int b=100;
-    cout<<a*b;
+    cout<<a+b;
     return 0;
 }
